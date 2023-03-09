@@ -1,4 +1,4 @@
-This repository contains the python notebooks of the tutorial on Federated Learning (FL) published at -. It includes examples of how to solve problems either at Horizontal (HFL) or Vertical (VFL) Federated Learning scenarios, using TFF, Flower and FATE frameworks.
+This repository contains the python notebooks of the tutorial on Federated Learning (FL) published at -. It includes examples of how to solve problems either at Horizontal (HFL) or Vertical (VFL) Federated Learning scenarios, using [TensorFlow Federated (TFF)](https://github.com/tensorflow/federated), [Flower](https://github.com/adap/flower) and [FATE](https://github.com/FederatedAI/FATE) frameworks.
 
 It is divided into different use cases:
  * Use case 1. Training deep learning models in HFL scenario
